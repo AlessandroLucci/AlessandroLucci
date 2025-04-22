@@ -1,23 +1,16 @@
-# Hello World! 👋 Benvenuto/a sul mio profilo GitHub!
+# Hello World! 👋 Welcome to my GitHub profile!
 
-<p align="center">
-  <img src="[LINK_A_UN_BANNER_O_IMMAGINE_OPZIONALE]" alt="Banner Profilo" width="800"/>
-</p>
+I'm **Alessandro Lucci**, a University Student passionate about data analysis and data visualization. I am currently seeking a curricular internship in this field.
 
-Sono **[Alessandro Lucci]**, uno Studente Universitario con una passione per l'analisi dati e la visualizzazione dei dati, e sto cercando un tirocinio curricolare in questo ambito
+I study ICT at the University of Turin.
 
-Utilizzo GitHub per:
-*    condividere i miei progetti personali e accademici.
-*    collaborare su progetti interessanti.
-*    imparare nuove tecnologie e metodologie.
-*    esplorare il mondo dell'open-source.
+<!-- Optional: Add a bit more personality or a key project here if you like -->
 
+---
 
+### 🛠️ Tech Stack / Tools
 
-
-### 🛠️ Tecnologie e Strumenti
-
-Ecco alcuni degli strumenti e delle tecnologie con cui lavoro più frequentemente:
+Here are some of the tools and technologies I frequently work with:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -26,44 +19,29 @@ Ecco alcuni degli strumenti e delle tecnologie con cui lavoro più frequentement
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  <!-- Add other tools if needed -->
 </p>
 
 ---
 
-### 📊 Le mie Statistiche GitHub
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroLucci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Le mie Statistiche GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroLucci&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="I miei Linguaggi più Usati"/>
+  <!-- Make sure username=AlessandroLucci is correct -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroLucci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroLucci&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="My Top Languages"/>
 </p>
 
 ---
 
-### 🌱 Su cosa sto lavorando / Imparando
+### 📫 How to Reach Me
 
-*   Attualmente sto approfondendo il mondo della Data Science.
----
+You can find me on:
 
-### 📫 Come contattarmi
-
-Puoi trovarmi su:
-
-*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luccialessandro)
+*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccialessandro) <!-- Make sure the URL is correct -->
+*   <0xF0><0x9F><0x9B><0x8A>️ TikTok: Building content at [**Your TikTok Profile Link Here**] <!-- Replace with your actual TikTok link -->
+<!-- *   📧 Email: [your_email@example.com] (Optional: Add if you want) -->
 
 ---
 
-Grazie per aver visitato il mio profilo! ✨
-<!--
-**AlessandroLucci/AlessandroLucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! ✨
