@@ -30,11 +30,12 @@ Check out this project I've been working on:
 
 <!-- Sostituisci [NOME-TUA-REPO] con il nome esatto del tuo repository! -->
 <p align="center">
-  <a href="https://github.com/AlessandroLucci/[NOME-TUA-REPO]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroLucci&repo=[NOME-TUA-REPO]&theme=tokyonight&hide_border=true&show_owner=true" alt="Featured Repository Card"/>
+  <a href="https://github.com/AlessandroLucci/Database-per-la-gestione-delle-donazioni-del-sangue">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroLucci&repo=Database-per-la-gestione-delle-donazioni-del-sangue&theme=tokyonight&hide_border=true&show_owner=true" alt="Featured Repository Card"/>
   </a>
 </p>
 
+---
 
 ### 📊 My GitHub Stats
 
@@ -51,7 +52,8 @@ Check out this project I've been working on:
 You can find me on:
 
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccialessandro) <!-- Make sure the URL is correct -->
-*   <0xF0><0x9F><0x9B><0x8A>️ TikTok: Building content at [**Your TikTok Profile Link Here**] <!-- Replace with your actual TikTok link -->
+* Building content on TikTok: [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]([**https://www.tiktok.com/@alelucci0?_t=ZN-8vkTgHC06kw&_r=1**])
+place with your actual TikTok link -->
 <!-- *   📧 Email: [your_email@example.com] (Optional: Add if you want) -->
 
 ---
