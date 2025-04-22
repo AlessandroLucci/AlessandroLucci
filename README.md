@@ -52,8 +52,7 @@ Check out this project I've been working on:
 You can find me on:
 
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccialessandro) 
-*   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]([https://www.tiktok.com/@alelucci0?_t=ZN-8vkTgHC06kw&_r=1])
-<!-- *   📧 Email: [your_email@example.com] (Optional: Add if you want) -->
+*   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]([https://www.tiktok.com/@alelucci0?t=ZN-8vkTgHC06kw&_r=1])
 
 ---
 
