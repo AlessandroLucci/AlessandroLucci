@@ -4,7 +4,7 @@
   <img src="[LINK_A_UN_BANNER_O_IMMAGINE_OPZIONALE]" alt="Banner Profilo" width="800"/>
 </p>
 
-Sono **Alessandro Lucci]**, uno **[La tua Professione/Ruolo, es: Data Analyst, Sviluppatore Python, Studente Universitario]** con una forte passione per **[I tuoi Interessi Principali, es: l'analisi dei dati, il machine learning, la visualizzazione delle informazioni, lo sviluppo software]**.
+Sono **Alessandro Lucci]**, uno ** Studente Universitario** con una forte passione per l'analisi dati e la visualizzazione dei dati, e sto cercando un tirocinio curricolare in questo ambito
 
 Utilizzo GitHub per:
 *    condividere i miei progetti personali e accademici.
