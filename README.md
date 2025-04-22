@@ -1,8 +1,9 @@
 # Hello World! 👋 Welcome to my GitHub profile!
 
-I'm **Alessandro Lucci**, a University Student passionate about data analysis and data visualization. I am currently seeking a curricular internship in this field.
-
-I study ICT at the University of Turin.
+*   🧑‍🎓 I'm **Alessandro Lucci**, a University Student.
+*   📊 Passionate about data analysis and data visualization.
+*   🎯 Currently seeking a curricular internship in this field.
+*   🎓 Studying ICT at the University of Turin.
 
 <!-- Optional: Add a bit more personality or a key project here if you like -->
 
@@ -23,6 +24,17 @@ Here are some of the tools and technologies I frequently work with:
 </p>
 
 ---
+### ✨ Featured Repository
+
+Check out this project I've been working on:
+
+<!-- Sostituisci [NOME-TUA-REPO] con il nome esatto del tuo repository! -->
+<p align="center">
+  <a href="https://github.com/AlessandroLucci/[NOME-TUA-REPO]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroLucci&repo=[NOME-TUA-REPO]&theme=tokyonight&hide_border=true&show_owner=true" alt="Featured Repository Card"/>
+  </a>
+</p>
+
 
 ### 📊 My GitHub Stats
 
