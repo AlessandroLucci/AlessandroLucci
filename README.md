@@ -36,6 +36,14 @@ Check out this project I've been working on:
 </p>
 
 ---
+### 📫 How to Reach Me
+
+You can find me on:
+
+*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccialessandro)
+*   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alelucci0?t=ZN-8vkTgHC06kw&_r=1)
+
+---
 
 ### 📊 My GitHub Stats
 
@@ -45,15 +53,6 @@ Check out this project I've been working on:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroLucci&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="My Top Languages"/>
 </p>
 
----
 
-### 📫 How to Reach Me
-
-You can find me on:
-
-*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccialessandro)
-*   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alelucci0?t=ZN-8vkTgHC06kw&_r=1)
-
----
 
 Thanks for visiting my profile! ✨
