@@ -24,18 +24,6 @@ Here are some of the tools and technologies I frequently work with:
 </p>
 
 ---
-### ✨ Featured Repository
-
-Check out this project I've been working on:
-
-<!-- Sostituisci [NOME-TUA-REPO] con il nome esatto del tuo repository! -->
-<p align="center">
-  <a href="https://github.com/AlessandroLucci/Database-per-la-gestione-delle-donazioni-del-sangue">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroLucci&repo=Database-per-la-gestione-delle-donazioni-del-sangue&theme=tokyonight&hide_border=true&show_owner=true" alt="Featured Repository Card"/>
-  </a>
-</p>
-
----
 ### 📫 How to Reach Me
 
 You can find me on:
